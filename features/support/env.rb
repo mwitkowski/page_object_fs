@@ -1,1 +1,4 @@
-test github
+$LOAD_PATH << File.expand_path('../../lib',__FILE__)
+
+require 'myGems'
+require 'browserSetup'
